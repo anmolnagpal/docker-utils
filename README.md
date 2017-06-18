@@ -13,7 +13,7 @@ USAGE ./docker-container.sh [argument]
 
 # Image Script Usage
 ```
-USAGE ./docker-image.sh [argument]
+USAGE ./docker-images.sh [argument]
   -a: list images
   -f: keep first image, remove others
   -l: keep last image, remove others
