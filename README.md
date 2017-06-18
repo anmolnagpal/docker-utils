@@ -3,7 +3,7 @@ For users of Docker.  This script has a basic set of utilities to manage large n
 
 # Container Script Usage
 ```
-USAGE ./container-utils.sh [argument]
+USAGE ./docker-container.sh [argument]
   -a: list all containers
   -u: list running containers
   -f: keep first container, remove others
@@ -13,7 +13,7 @@ USAGE ./container-utils.sh [argument]
 
 # Image Script Usage
 ```
-USAGE ./images-utils.sh [argument]
+USAGE ./docker-image.sh [argument]
   -a: list images
   -f: keep first image, remove others
   -l: keep last image, remove others
